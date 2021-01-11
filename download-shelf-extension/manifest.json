@@ -1,0 +1,11 @@
+{
+   "background": {
+      "scripts": [ "disableShelf.js" ]
+   },
+   "description": "Disables the downloads shelf",
+   "manifest_version": 2,
+   "name": "Disables the download shelf",
+   "permissions": ["downloads", "downloads.shelf"],
+   "short_name": "Disable download shelf",
+   "version": "2.0"
+}
